@@ -69,9 +69,9 @@
         "guzzlehttp/guzzle": ">=6.2.1, <6.3",
         "monolog/monolog": "~1.11",
         "php": ">=7.0.0,<7.2",
-        "symfony/console": "~2.5",
+        "symfony/console": "*",
         "symfony/yaml": "*",
-        "twig/twig": "<2.0"
+        "twig/twig": "*"
     },
     "require-dev": {
         "behat/behat": "^3.2",
